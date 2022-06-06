@@ -1,0 +1,21 @@
+{
+    "Neaga": {
+        "First name": "Stefan",
+        "Last name": "Neaga",
+        "Age": "65",
+        "Job": "faa",
+        "Salary": 200.0,
+        "Bonus": 20.0,
+        "Total salary": 220.0
+    },
+    "Arg": {
+        "First name": "Alex",
+        "Last name": "Arg",
+        "Age": "65",
+        "Job": "faa",
+        "Salary": 200.0,
+        "Bonus": 10.0,
+        "Total salary": 210.0
+    
+    }
+}

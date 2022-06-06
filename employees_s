@@ -1,0 +1,20 @@
+{
+    "Mara": {
+        "First name": "Mara",
+        "Last name": "Mara",
+        "Age": "10",
+        "Job": "fasfa",
+        "Salary": 150.0,
+        "Bonus": 10.0,
+        "Total salary": 160.0
+    },
+    "Ion": {
+        "First name": "Ion",
+        "Last name": "Craciun",
+        "Age": "45",
+        "Job": "fafa",
+        "Salary": 20.0,
+        "Bonus": 10.0,
+        "Total salary": 30.0
+    }
+}
